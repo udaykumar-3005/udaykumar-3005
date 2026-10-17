@@ -48,31 +48,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔷 Customer Churn Prediction using ANN
-> Predicting customer churn for a bank dataset of 10,000 customers using Deep Learning.
-
-- 🧠 Built a multi-layer **Artificial Neural Network** using TensorFlow and Keras
-- 📈 Achieved **~86% accuracy** and **0.87 ROC-AUC**
-- 🔍 Performed end-to-end EDA — Germany had the highest churn rate (~32%)
-- ⚙️ Applied **Dropout regularization** and **Early Stopping** to prevent overfitting
-
-`TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
----
-
-### 🔷 Salary Prediction — Linear Regression from Scratch
-> Built Linear Regression entirely from scratch using only NumPy — no Scikit-learn for training.
-
-- ✍️ Implemented **Z-score normalization**, **Gradient Descent**, and **Early Stopping** manually
-- 📊 Achieved **R² score of ~0.957** with convergence in just **163 iterations**
-- ✅ Validated against Scikit-learn — outputs were nearly identical
-- 💾 Serialized model as `.pkl` with full inference bundle for reusable deployment
-
-`Python` `NumPy` `Pandas` `Matplotlib` `Seaborn`
-
----
 
 ## 📊 GitHub Stats
 
